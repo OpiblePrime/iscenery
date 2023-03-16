@@ -1,0 +1,26 @@
+{
+  "name": "iscenery",
+  "version": "0.0.0",
+  "description": "A serverless API scaffolding tool for typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpiblePrime/iscenery.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "serverless",
+    "api",
+    "aws"
+  ],
+  "author": "OpiblePrime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpiblePrime/iscenery/issues"
+  },
+  "homepage": "https://github.com/OpiblePrime/iscenery#readme"
+}
